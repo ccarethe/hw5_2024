@@ -164,7 +164,7 @@ header {
     }
 
     .card > ul > li:nth-of-type(2)::after {
-        content: "&#128077";
+        content: "\1F44D";
         display: inline-block;
         /* width: 12px;
         height: 12px;
